@@ -9,7 +9,7 @@
 
 - 🌱 I’m looking to collaborate on **Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/akshith-neeli-a9b562330](www.linkedin.com/in/akshith-neeli-a9b562330)
+- 👨‍💻 All of my projects are available at Linkedin-/AKSHITH NEELI
 
 - 💬 Ask me about **DevOps**
 ### 🔧 Technologies and Tools
