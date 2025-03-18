@@ -21,7 +21,7 @@
 - **IaC**: Terraform.
 - **Monitoring**: Prometheus, Grafana.
 - **Scripting**: Bash.
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub.
   
 - 📫 How to reach me **akshith3628@gmail.com**
 
