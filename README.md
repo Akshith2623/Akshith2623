@@ -16,7 +16,7 @@
 
 - **Cloud**: AWS.
 - **Containerization**: Docker, Kubernetes, ECS, EKS.
-- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions.
+- **CI/CD**: Jenkins, CI/CD.
 - **Configuration Management**: Ansible.
 - **IaC**: Terraform.
 - **Monitoring**: Prometheus, Grafana.
